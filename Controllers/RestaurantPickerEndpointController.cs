@@ -2,7 +2,7 @@
 //Last Revised: 10-27-2022
 //Restaurant Picker - Endpoint
 //This is an API program that emulates the console project of the same name that we wrote last week. It is a program that gives random restaurant suggestions that are narrowed down based on the user's preference for specific categories of food.
-//Peer Reviewed By: The api and code work really well, the assignment meats all criterira. I really the use of data validation for this project and the way the arrays are organized. 
+//Peer Reviewed By: Daniel Decoito -- The api and code work really well, the assignment meats all criterira. I really the use of data validation for this project and the way the arrays are organized. 
 
 using Microsoft.AspNetCore.Mvc;
 
